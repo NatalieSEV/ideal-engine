@@ -1,2 +1,2 @@
 print("Hello")
-SetText("World")
+SetText(1 + 3)
